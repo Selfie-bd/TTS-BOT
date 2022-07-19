@@ -11,7 +11,7 @@ https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&lin
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/Jack-of-tg/TTS-BOT.git
+git clone https://github.com/selfie-bd/TTS-BOT.git
 cd TTS-BOT
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
